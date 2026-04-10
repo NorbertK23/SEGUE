@@ -1,0 +1,39 @@
+# Workspace and IDE state
+.metadata/
+.vscode/
+eclipse-workspace.code-workspace
+Report/
+Microchip_Studio_Project/
+**/.project
+**/.cproject
+**/.settings/
+**/.vs/
+**/*.atsuo
+**/*.atsln
+**/*.cproj
+**/*.componentinfo.xml
+
+# Build outputs
+**/Debug/
+**/Release/
+**/logs/
+**/*.o
+**/*.d
+**/*.elf
+**/*.hex
+**/*.eep
+**/*.lss
+**/*.map
+**/*.srec
+**/*.i
+**/*.s
+**/objects.mk
+**/sources.mk
+**/subdir.mk
+**/makefile
+**/Makefile
+**/makedep.mk
+
+# Windows noise
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,15 @@
+/AGENTS.md
+/.aiexclude
+/NOTES
+/notes*.txt
+/hotkeys.txt
+
+/.project
+/.cproject
+/.settings/
+/.vscode/
+
+/Doxyfile
+/docs/
+/archive/
+/tools/build-docs.ps1
