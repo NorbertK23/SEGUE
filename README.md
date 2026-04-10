@@ -46,3 +46,18 @@ make main-build -j1
 ## Current Focus
 
 The repository is currently centered on the balancing controller in `M2_HW/`, with tuning, estimator work, telemetry control, and output-policy experiments for longer stable oscillation and eventual upright hold.
+
+## Report Evidence
+
+Supporting material for the final report lives under `evidence/`.
+
+- `evidence/Figures/`: main report figures and diagrams
+- `evidence/telemetry/`: processed logs and plotted telemetry evidence
+- `evidence/videos/`: curated demonstration videos that fit standard GitHub file limits
+
+The source code referenced by the report is already tracked directly in:
+
+- `M2_HW/`
+- `libs/`
+
+See `evidence/README.md` for a file-by-file map between the report and the repository contents.
